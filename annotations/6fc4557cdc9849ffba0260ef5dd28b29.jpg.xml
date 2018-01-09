@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>6fc4557cdc9849ffba0260ef5dd28b29.jpg.jpg</filename>
+	<path>/Users/stanleynguyen/Documents/Projects/pedestrian-detector/data/6fc4557cdc9849ffba0260ef5dd28b29.jpg.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pedestrian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>368</xmin>
+			<ymin>146</ymin>
+			<xmax>546</xmax>
+			<ymax>614</ymax>
+		</bndbox>
+	</object>
+</annotation>
