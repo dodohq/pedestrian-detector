@@ -1,8 +1,8 @@
 trainingInput:
-  runtimeVersion: "1.2"
+  runtimeVersion: "1.4"
   scaleTier: CUSTOM
-  masterType: standard_gpu
+  masterType: large_model
   workerCount: 5
-  workerType: standard_gpu
+  workerType: large_model
   parameterServerCount: 3
   parameterServerType: standard
